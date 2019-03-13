@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.nfustmilestone1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\dande\\Downloads\\nfustMilestone1\\nfustMilestone1\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "nfustMilestone1 [Testing]"
+        }
+      }
+    }
+  ]
+}
